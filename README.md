@@ -11,7 +11,7 @@
 
 <p>
 <a href="https://github.com/firststef">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=firststef&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firststef&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
+  <img height="180em" src = "https://readme-stats.clckblog.space/api/top-langs/?username=firststef&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
+ <img height="180em" src="https://readme-stats.clckblog.space/api?username=firststef&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
 </a>
 </p>
